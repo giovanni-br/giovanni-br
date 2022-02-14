@@ -3,7 +3,7 @@
 ### Hi there, I'm Giovanni 👋 
 
   ## About me
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="300" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="252" />
   
 - 🔭 I’m currently working on aplying Data Science to Physics
 - 🌱 I’m currently learning Image Processing
