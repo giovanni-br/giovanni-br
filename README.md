@@ -1,5 +1,6 @@
-### Hi there, I'm Giovanni 👋
 
+
+### Hi there, I'm Giovanni 👋
 <img align="right" width="259" height="194" src="https://user-images.githubusercontent.com/86328308/153894800-a04ca030-2814-4f43-97c8-8ebd96507dc5.jpeg">
 
 
