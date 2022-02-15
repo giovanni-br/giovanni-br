@@ -2,6 +2,9 @@
 
 ### Hi there, I'm Giovanni 👋 
 
+**Great to see you here!**
+![](https://komarev.com/ghpvc/?username=giovanni-br)
+
   ## About me
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="252" />
   
