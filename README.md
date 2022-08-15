@@ -8,7 +8,7 @@
   ## About me
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="252" />
   
-- 🔭 I’m currently working on applying Data Science to Physics
+- 🔭 I’m currently working on applying Machine Learning techniques to Physics
 - 🌱 I’m  learning about Image Processing
 - 💬 Ask me about anything, I'm here to help!
 - 📫 How to reach me: giovannibenedettidarosa@gmail.com
