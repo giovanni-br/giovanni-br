@@ -8,7 +8,9 @@
   ## About me
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="252" />
   
-My passion for learning and innovating has led me to explore image processing, models, and the application of artificial intelligence in the development of new electronic devices.
+My journey has equipped me with a solid foundation in math, physics engineering, quantum chemistry, artificial intelligence, and imaging technology. I am passionate about applying this diverse expertise in both specialized and interdisciplinary projects that integrate these fields.
+
+Currently, I am seeking a 6-month internship in the field of Data Science/Artificial Intelligence.
 ##
 - 🌱 I’m  learning about  AI and Image Processing
 - 💬 Ask me about anything, I'm here to help!
