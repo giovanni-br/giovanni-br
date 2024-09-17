@@ -13,6 +13,7 @@ My journey has equipped me with a solid foundation in math, physics engineering,
 Currently, I am seeking a 6-month internship in the field of Data Science/Artificial Intelligence.
 ##
 - 🌱 I’m  learning about  AI and Image Processing
+- 👀 I have a strong interest in Computer Vision, Natural Language Processing, Supervised Learning, and Deep Learning.
 - 💬 Ask me about anything, I'm here to help!
 - 📫 How to reach me: giovannibenedettidarosa@gmail.com
 
