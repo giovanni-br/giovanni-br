@@ -16,7 +16,7 @@ Currently, I am seeking a 6-month internship in the field of Data Science/Artifi
 - 👀 I have a strong interest in Computer Vision, Natural Language Processing, Supervised Learning, and Deep Learning.
 - 💬 Ask me about anything, I'm here to help!
 - 📫 How to reach me: giovannibenedettidarosa@gmail.com
-- 📁 Check out my portfolio!: https://giovanni-br.github.io/portfolio-giovanni/
+- 📁 Check out my portfolio: https://giovanni-br.github.io/portfolio-giovanni/
 
 ## Tools
 
