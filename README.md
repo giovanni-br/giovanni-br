@@ -10,7 +10,6 @@
   
 My journey has equipped me with a solid foundation in math, physics engineering, quantum chemistry, artificial intelligence, and imaging technology. I am passionate about applying this diverse expertise in both specialized and interdisciplinary projects that integrate these fields.
 
-Currently, I am seeking a 6-month internship in the field of Data Science/Artificial Intelligence.
 ##
 - 🌱 I’m  learning about  AI and Image Processing
 - 👀 I have a strong interest in Computer Vision, Natural Language Processing, Supervised Learning, and Deep Learning.
