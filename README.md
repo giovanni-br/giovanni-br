@@ -11,8 +11,7 @@
 My journey has equipped me with a solid foundation in math, physics engineering, quantum chemistry, artificial intelligence, and imaging technology. I am passionate about applying this diverse expertise in both specialized and interdisciplinary projects that integrate these fields.
 
 ##
-- 🌱 I’m  learning about  AI and Image Processing
-- 👀 I have a strong interest in Computer Vision, Natural Language Processing, Supervised Learning, and Deep Learning.
+- 👀 I have a strong interest in Computer Vision, Natural Language Processing and Deep Learning.
 - 💬 Ask me about anything, I'm here to help!
 - 📫 How to reach me: giovannibenedettidarosa@gmail.com
 - 📁 Check out my portfolio: https://giovanni-br.github.io/portfolio-giovanni/
