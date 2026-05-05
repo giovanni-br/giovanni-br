@@ -8,7 +8,7 @@
   ## About me
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="350" height="252" />
   
-My journey has equipped me with a solid foundation in math, physics engineering, quantum chemistry, artificial intelligence, and imaging technology. I am passionate about applying this diverse expertise in both specialized and interdisciplinary projects that integrate these fields.
+My journey has given me a strong foundation in mathematics, physics engineering, quantum chemistry, artificial intelligence, and imaging technologies. I am passionate about using this broad expertise in both specialized and interdisciplinary projects that bring these fields together.
 
 ##
 - 👀 I have a strong interest in Computer Vision, Natural Language Processing and Deep Learning.
